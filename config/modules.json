@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ai-pet-travel-certificate-coordinator",
+    "name": "Pet travel certificate coordinator",
+    "sourceProject": "ai-pet-travel-certificate-coordinator",
+    "services": []
+  },
+  {
+    "id": "AIAnimalShelterRescueManager",
+    "name": "Animal shelter rescue manager",
+    "sourceProject": "AIAnimalShelterRescueManager",
+    "services": []
+  },
+  {
+    "id": "AIPetHealthMonitor",
+    "name": "Pet health monitor",
+    "sourceProject": "AIPetHealthMonitor",
+    "services": []
+  },
+  {
+    "id": "AIVeterinaryClinicManager",
+    "name": "Veterinary clinic manager",
+    "sourceProject": "AIVeterinaryClinicManager",
+    "services": []
+  },
+  {
+    "id": "petGrooming",
+    "name": "Pet grooming",
+    "sourceProject": "petGrooming",
+    "services": []
+  }
+]

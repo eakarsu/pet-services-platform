@@ -1,0 +1,272 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "destination-checklist-draft",
+      "airline-document-checklist",
+      "operations-handoff-draft",
+      "pet-ai-draft"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 7 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "destination-checklist-draft",
+        "title": "Destination checklist draft",
+        "originalPath": "/features/destination-checklist-draft"
+      },
+      {
+        "id": "airline-document-checklist",
+        "title": "Airline document checklist",
+        "originalPath": "/features/airline-document-checklist"
+      },
+      {
+        "id": "operations-handoff-draft",
+        "title": "Operations handoff draft",
+        "originalPath": "/features/operations-handoff-draft"
+      },
+      {
+        "id": "pet-ai-draft",
+        "title": "Pet ai draft",
+        "originalPath": "/features/pet-ai-draft"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "airline-booking"
+    ],
+    "ai": true,
+    "representativeId": "airline-booking",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "airline-booking",
+        "title": "Airline Booking",
+        "originalPath": "/features/airline-booking"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "vaccination-date-reconciliation"
+    ],
+    "ai": true,
+    "representativeId": "vaccination-date-reconciliation",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "vaccination-date-reconciliation",
+        "title": "Vaccination date reconciliation",
+        "originalPath": "/features/vaccination-date-reconciliation"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "veterinary-packet-summary",
+      "certificate-inconsistency-review",
+      "owner-preparation-instructions",
+      "emergency",
+      "diagnostics",
+      "diagnostic-assistant",
+      "treatment-recommendation",
+      "aftercare",
+      "wellness-reminder",
+      "diagnostic-assistant-providing-differential-diagnoses-from-symptoms-labs",
+      "aftercare-generator-producing-discharge-instructions-and-follow-up-plans",
+      "diagnostic-assistance-ai",
+      "discharge-aftercare-instruction-generator",
+      "lab-result-interpret",
+      "pharmacy-interaction-check",
+      "owner-self-service-faq",
+      "multi-clinic-summary"
+    ],
+    "ai": true,
+    "representativeId": "veterinary-packet-summary",
+    "description": "One assistant for 17 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "veterinary-packet-summary",
+        "title": "Veterinary packet summary",
+        "originalPath": "/features/veterinary-packet-summary"
+      },
+      {
+        "id": "certificate-inconsistency-review",
+        "title": "Certificate inconsistency review",
+        "originalPath": "/features/certificate-inconsistency-review"
+      },
+      {
+        "id": "owner-preparation-instructions",
+        "title": "Owner preparation instructions",
+        "originalPath": "/features/owner-preparation-instructions"
+      },
+      {
+        "id": "emergency",
+        "title": "Emergency AI",
+        "originalPath": "/features/emergency"
+      },
+      {
+        "id": "diagnostics",
+        "title": "AI Diagnostics",
+        "originalPath": "/features/diagnostics"
+      },
+      {
+        "id": "diagnostic-assistant",
+        "title": "AI Diagnostic Assistant",
+        "originalPath": "/features/diagnostic-assistant"
+      },
+      {
+        "id": "treatment-recommendation",
+        "title": "AI Treatment Recs",
+        "originalPath": "/features/treatment-recommendation"
+      },
+      {
+        "id": "aftercare",
+        "title": "AI Aftercare",
+        "originalPath": "/features/aftercare"
+      },
+      {
+        "id": "wellness-reminder",
+        "title": "AI Wellness Reminders",
+        "originalPath": "/features/wellness-reminder"
+      },
+      {
+        "id": "diagnostic-assistant-providing-differential-diagnoses-from-symptoms-labs",
+        "title": "Diagnostic assistant providing differential diagno...",
+        "originalPath": "/features/diagnostic-assistant-providing-differential-diagnoses-from-symptoms-labs"
+      },
+      {
+        "id": "aftercare-generator-producing-discharge-instructions-and-follow-up-plans",
+        "title": "Aftercare generator producing discharge instructio...",
+        "originalPath": "/features/aftercare-generator-producing-discharge-instructions-and-follow-up-plans"
+      },
+      {
+        "id": "diagnostic-assistance-ai",
+        "title": "No diagnostic assistance AI",
+        "originalPath": "/features/diagnostic-assistance-ai"
+      },
+      {
+        "id": "discharge-aftercare-instruction-generator",
+        "title": "No discharge/aftercare-instruction generator",
+        "originalPath": "/features/discharge-aftercare-instruction-generator"
+      },
+      {
+        "id": "lab-result-interpret",
+        "title": "Lab result interpret",
+        "originalPath": "/features/lab-result-interpret"
+      },
+      {
+        "id": "pharmacy-interaction-check",
+        "title": "Pharmacy interaction check",
+        "originalPath": "/features/pharmacy-interaction-check"
+      },
+      {
+        "id": "owner-self-service-faq",
+        "title": "Owner self service faq",
+        "originalPath": "/features/owner-self-service-faq"
+      },
+      {
+        "id": "multi-clinic-summary",
+        "title": "Multi clinic summary",
+        "originalPath": "/features/multi-clinic-summary"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "evidence-completeness-review",
+      "treatment-recommendation-suggesting-evidence-based-protocols"
+    ],
+    "ai": true,
+    "representativeId": "evidence-completeness-review",
+    "description": "One assistant for 2 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "evidence-completeness-review",
+        "title": "Evidence completeness review",
+        "originalPath": "/features/evidence-completeness-review"
+      },
+      {
+        "id": "treatment-recommendation-suggesting-evidence-based-protocols",
+        "title": "Treatment recommendation suggesting evidence-based...",
+        "originalPath": "/features/treatment-recommendation-suggesting-evidence-based-protocols"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "behavior",
+      "treatment-recommendation-ai",
+      "imaging-analysis-x-ray-ultrasound",
+      "outbreak-detection"
+    ],
+    "ai": true,
+    "representativeId": "behavior",
+    "description": "One assistant for 4 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "behavior",
+        "title": "Behavior Analysis",
+        "originalPath": "/features/behavior"
+      },
+      {
+        "id": "treatment-recommendation-ai",
+        "title": "No treatment recommendation AI",
+        "originalPath": "/features/treatment-recommendation-ai"
+      },
+      {
+        "id": "imaging-analysis-x-ray-ultrasound",
+        "title": "No imaging analysis (x-ray, ultrasound)",
+        "originalPath": "/features/imaging-analysis-x-ray-ultrasound"
+      },
+      {
+        "id": "outbreak-detection",
+        "title": "Outbreak detection",
+        "originalPath": "/features/outbreak-detection"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1701 @@
+{
+  "mapped": [
+    {
+      "project": "ai-pet-travel-certificate-coordinator",
+      "sourceKey": "PetJourney",
+      "source": "/Volumes/external/projects/ai-pet-travel-certificate-coordinator/src/config/app.ts",
+      "canonical": "pet-journey",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pet-travel-certificate-coordinator",
+      "sourceKey": "TravelPet",
+      "source": "/Volumes/external/projects/ai-pet-travel-certificate-coordinator/src/config/app.ts",
+      "canonical": "travel-pet",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pet-travel-certificate-coordinator",
+      "sourceKey": "VeterinaryVisit",
+      "source": "/Volumes/external/projects/ai-pet-travel-certificate-coordinator/src/config/app.ts",
+      "canonical": "veterinary-visit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pet-travel-certificate-coordinator",
+      "sourceKey": "PetVaccination",
+      "source": "/Volumes/external/projects/ai-pet-travel-certificate-coordinator/src/config/app.ts",
+      "canonical": "pet-vaccination",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pet-travel-certificate-coordinator",
+      "sourceKey": "PetLabResult",
+      "source": "/Volumes/external/projects/ai-pet-travel-certificate-coordinator/src/config/app.ts",
+      "canonical": "pet-lab-result",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pet-travel-certificate-coordinator",
+      "sourceKey": "DestinationRule",
+      "source": "/Volumes/external/projects/ai-pet-travel-certificate-coordinator/src/config/app.ts",
+      "canonical": "destination-rule",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pet-travel-certificate-coordinator",
+      "sourceKey": "HealthCertificate",
+      "source": "/Volumes/external/projects/ai-pet-travel-certificate-coordinator/src/config/app.ts",
+      "canonical": "health-certificate",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pet-travel-certificate-coordinator",
+      "sourceKey": "AirlineBooking",
+      "source": "/Volumes/external/projects/ai-pet-travel-certificate-coordinator/src/config/app.ts",
+      "canonical": "airline-booking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pet-travel-certificate-coordinator",
+      "sourceKey": "BorderHandoff",
+      "source": "/Volumes/external/projects/ai-pet-travel-certificate-coordinator/src/config/app.ts",
+      "canonical": "border-handoff",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pet-travel-certificate-coordinator",
+      "sourceKey": "OperationalTask",
+      "source": "/Volumes/external/projects/ai-pet-travel-certificate-coordinator/src/config/app.ts",
+      "canonical": "operational-task",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pet-travel-certificate-coordinator",
+      "sourceKey": "RuleVersion",
+      "source": "/Volumes/external/projects/ai-pet-travel-certificate-coordinator/src/config/app.ts",
+      "canonical": "rule-version",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pet-travel-certificate-coordinator",
+      "sourceKey": "DocumentRequirement",
+      "source": "/Volumes/external/projects/ai-pet-travel-certificate-coordinator/src/config/app.ts",
+      "canonical": "document-requirement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pet-travel-certificate-coordinator",
+      "sourceKey": "destination-checklist-draft",
+      "source": "/Volumes/external/projects/ai-pet-travel-certificate-coordinator/src/config/app.ts",
+      "canonical": "destination-checklist-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pet-travel-certificate-coordinator",
+      "sourceKey": "vaccination-date-reconciliation",
+      "source": "/Volumes/external/projects/ai-pet-travel-certificate-coordinator/src/config/app.ts",
+      "canonical": "vaccination-date-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pet-travel-certificate-coordinator",
+      "sourceKey": "veterinary-packet-summary",
+      "source": "/Volumes/external/projects/ai-pet-travel-certificate-coordinator/src/config/app.ts",
+      "canonical": "veterinary-packet-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pet-travel-certificate-coordinator",
+      "sourceKey": "airline-document-checklist",
+      "source": "/Volumes/external/projects/ai-pet-travel-certificate-coordinator/src/config/app.ts",
+      "canonical": "airline-document-checklist",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pet-travel-certificate-coordinator",
+      "sourceKey": "certificate-inconsistency-review",
+      "source": "/Volumes/external/projects/ai-pet-travel-certificate-coordinator/src/config/app.ts",
+      "canonical": "certificate-inconsistency-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pet-travel-certificate-coordinator",
+      "sourceKey": "owner-preparation-instructions",
+      "source": "/Volumes/external/projects/ai-pet-travel-certificate-coordinator/src/config/app.ts",
+      "canonical": "owner-preparation-instructions",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pet-travel-certificate-coordinator",
+      "sourceKey": "evidence-completeness-review",
+      "source": "/Volumes/external/projects/ai-pet-travel-certificate-coordinator/src/config/app.ts",
+      "canonical": "evidence-completeness-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pet-travel-certificate-coordinator",
+      "sourceKey": "operations-handoff-draft",
+      "source": "/Volumes/external/projects/ai-pet-travel-certificate-coordinator/src/config/app.ts",
+      "canonical": "operations-handoff-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAnimalShelterRescueManager",
+      "sourceKey": "/animals",
+      "source": "/Volumes/external/projects/AIAnimalShelterRescueManager/frontend/src/components/Layout.jsx",
+      "canonical": "animals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAnimalShelterRescueManager",
+      "sourceKey": "/kennels",
+      "source": "/Volumes/external/projects/AIAnimalShelterRescueManager/frontend/src/components/Layout.jsx",
+      "canonical": "kennels",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAnimalShelterRescueManager",
+      "sourceKey": "/medical",
+      "source": "/Volumes/external/projects/AIAnimalShelterRescueManager/frontend/src/components/Layout.jsx",
+      "canonical": "medical",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAnimalShelterRescueManager",
+      "sourceKey": "/behavioral",
+      "source": "/Volumes/external/projects/AIAnimalShelterRescueManager/frontend/src/components/Layout.jsx",
+      "canonical": "behavioral",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAnimalShelterRescueManager",
+      "sourceKey": "/medications",
+      "source": "/Volumes/external/projects/AIAnimalShelterRescueManager/frontend/src/components/Layout.jsx",
+      "canonical": "medications",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAnimalShelterRescueManager",
+      "sourceKey": "/quarantine",
+      "source": "/Volumes/external/projects/AIAnimalShelterRescueManager/frontend/src/components/Layout.jsx",
+      "canonical": "quarantine",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAnimalShelterRescueManager",
+      "sourceKey": "/adoptions",
+      "source": "/Volumes/external/projects/AIAnimalShelterRescueManager/frontend/src/components/Layout.jsx",
+      "canonical": "adoptions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAnimalShelterRescueManager",
+      "sourceKey": "/contracts",
+      "source": "/Volumes/external/projects/AIAnimalShelterRescueManager/frontend/src/components/Layout.jsx",
+      "canonical": "contracts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAnimalShelterRescueManager",
+      "sourceKey": "/fosters",
+      "source": "/Volumes/external/projects/AIAnimalShelterRescueManager/frontend/src/components/Layout.jsx",
+      "canonical": "fosters",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAnimalShelterRescueManager",
+      "sourceKey": "/volunteers",
+      "source": "/Volumes/external/projects/AIAnimalShelterRescueManager/frontend/src/components/Layout.jsx",
+      "canonical": "volunteers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAnimalShelterRescueManager",
+      "sourceKey": "/donations",
+      "source": "/Volumes/external/projects/AIAnimalShelterRescueManager/frontend/src/components/Layout.jsx",
+      "canonical": "donations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAnimalShelterRescueManager",
+      "sourceKey": "/inventory",
+      "source": "/Volumes/external/projects/AIAnimalShelterRescueManager/frontend/src/components/Layout.jsx",
+      "canonical": "inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAnimalShelterRescueManager",
+      "sourceKey": "/events",
+      "source": "/Volumes/external/projects/AIAnimalShelterRescueManager/frontend/src/components/Layout.jsx",
+      "canonical": "calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAnimalShelterRescueManager",
+      "sourceKey": "/lostfound",
+      "source": "/Volumes/external/projects/AIAnimalShelterRescueManager/frontend/src/components/Layout.jsx",
+      "canonical": "lostfound",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAnimalShelterRescueManager",
+      "sourceKey": "/strayholds",
+      "source": "/Volumes/external/projects/AIAnimalShelterRescueManager/frontend/src/components/Layout.jsx",
+      "canonical": "strayholds",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAnimalShelterRescueManager",
+      "sourceKey": "foster-capacity-balancer",
+      "source": "/Volumes/external/projects/AIAnimalShelterRescueManager",
+      "canonical": "foster-capacity-balancer",
+      "kind": "route"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/pets",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "pets",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/analytics",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/calendar",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/health-records",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "health-records",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/vaccinations",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "vaccinations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/medications",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "medications",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/appointments",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "appointments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/symptoms",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "symptoms",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/allergies",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "allergies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/dental",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "dental",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/lab-results",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "lab-results",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/parasite-prevention",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "parasite-prevention",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/behaviors",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "behaviors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/nutrition",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "nutrition",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/feeding",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "feeding",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/weight",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "weight",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/activities",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "activities",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/sleep",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "sleep",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/grooming",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "grooming",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/training",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "training",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/socialization",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "socialization",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/ai-symptom-checker",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "symptom-checker",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/ai-diet",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "diet",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/ai-behavior",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "behavior",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/ai-health-report",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "health-report",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/ai-emergency",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "emergency",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/ai-insurance",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "insurance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/ai-find-specialists",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "find-specialists",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/ai-vaccination-schedule",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "vaccination-schedule",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/ai-genetic-disease-risk",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "genetic-disease-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/ai-health-trend-detect",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "health-trend-detect",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/expenses",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "expenses",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/insurance",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "insurance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/documents",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "documents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/supplies",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "supplies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/milestones",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "milestones",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/travel",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "travel",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/health-reports",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "health-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/emergency-contacts",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "canonical": "emergency-contacts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/appointments",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "appointments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/symptoms",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "symptoms",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/allergies",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "allergies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/behaviors",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "behaviors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/nutrition",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "nutrition",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/feeding",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "feeding",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/weight",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "weight",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/activities",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "activities",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/sleep",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "sleep",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/grooming",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "grooming",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/training",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "training",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/socialization",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "socialization",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/expenses",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "expenses",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/insurance",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "insurance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/documents",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "documents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/supplies",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "supplies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/milestones",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "milestones",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/health-reports",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "health-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/ai-symptom-checker",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "symptom-checker",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/ai-diet",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "diet",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/ai-behavior",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "behavior",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/ai-health-report",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "health-report",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/ai-emergency",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "emergency",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "/ai-insurance",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "insurance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "backlog-tools",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor",
+      "canonical": "backlog-tools",
+      "kind": "route"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "cf-agentic-wellness-monitoring",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor",
+      "canonical": "agentic-wellness-monitoring",
+      "kind": "route"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "cf-photo-based-health-screening",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor",
+      "canonical": "photo-based-health-screening",
+      "kind": "route"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "cf-emergency-decision-support",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor",
+      "canonical": "emergency-decision-support",
+      "kind": "route"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "cf-breed-age-specific-care-automation",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor",
+      "canonical": "breed-age-specific-care-automation",
+      "kind": "route"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "cf-veterinary-cost-negotiation",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor",
+      "canonical": "veterinary-cost-negotiation",
+      "kind": "route"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "gap-pets-without-genetic",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor",
+      "canonical": "pets-without-genetic",
+      "kind": "route"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "gap-medical-history-without-health",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor",
+      "canonical": "medical-history-without-health",
+      "kind": "route"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "gap-backend-collapses-everything-into-crud-js",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor",
+      "canonical": "backend-collapses-everything-into-crud-js",
+      "kind": "route"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "gap-no-veterinary-clinic-integration-medical-records-i",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor",
+      "canonical": "veterinary-clinic-integration-medical-records-i",
+      "kind": "route"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "gap-no-pharmacy-integration-medication-refills-cost-tr",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor",
+      "canonical": "pharmacy-integration-medication-refills-cost-tr",
+      "kind": "route"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "gap-no-breed-database-breed",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor",
+      "canonical": "breed-database-breed",
+      "kind": "route"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "gap-limited-community-features-peer-support-experience",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor",
+      "canonical": "limited-community-features-peer-support-experience",
+      "kind": "route"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "gap-no-notifications-module-grep-0",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor",
+      "canonical": "notifications-module-grep-0",
+      "kind": "route"
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "sourceKey": "gap-no-webhooks-for-clinic-events",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor",
+      "canonical": "webhooks-for-clinic-events",
+      "kind": "route"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/patients",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "patients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/visits",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "medical",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/vaccinations",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "vaccinations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/diagnostics",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "diagnostics",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/medications",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "medications",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/appointments",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "appointments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/billing",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "billing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/inventory",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/labs",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "lab-results",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/communications",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/ai/diagnostic-assistant",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "diagnostic-assistant",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/ai/treatment-recommendation",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "treatment-recommendation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/ai/aftercare",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "aftercare",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/ai/wellness-reminder",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "wellness-reminder",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/cf-diagnostic-assistant-providing-differential-diagnoses-from-symptoms-labs",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "diagnostic-assistant-providing-differential-diagnoses-from-symptoms-labs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/cf-treatment-recommendation-suggesting-evidence-based-protocols",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "treatment-recommendation-suggesting-evidence-based-protocols",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/cf-aftercare-generator-producing-discharge-instructions-and-follow-up-plans",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "aftercare-generator-producing-discharge-instructions-and-follow-up-plans",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/cf-outbreak-detection-flagging-potential-disease-outbreaks-across-patient",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "outbreak-detection-flagging-potential-disease-outbreaks-across-patient",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/cf-wellness-reminder-automation-by-species-age",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "wellness-reminder-automation-by-species-age",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/cf-boarding-grooming-module-add-on-for-multi-service-clinics",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "boarding-grooming-module-add-on-for-multi-service-clinics",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/gap-no-diagnostic-assistance-ai",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "diagnostic-assistance-ai",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/gap-no-treatment-recommendation-ai",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "treatment-recommendation-ai",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/gap-no-discharge-aftercare-instruction-generator",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "discharge-aftercare-instruction-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/gap-no-imaging-analysis-x-ray-ultrasound",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "imaging-analysis-x-ray-ultrasound",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/gap-limited-pharmacy-system-integration-only-stub-modules",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "limited-pharmacy-system-integration-only-stub-modules",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/gap-no-lab-result-direct-integration-idexx-antech",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "lab-result-direct-integration-idexx-antech",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/gap-no-pet-owner-self-service-portal",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "pet-owner-self-service-portal",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/gap-no-multi-clinic-hospital-group-support",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "multi-clinic-hospital-group-support",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/gap-no-webhooks-for-appointment-events",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "webhooks-for-appointment-events",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "/gap-no-notifications-subsystem-despite-sms-email-being-mentioned",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "canonical": "notifications-subsystem-despite-sms-email-being-mentioned",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "ai/outbreak-detection",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager",
+      "canonical": "outbreak-detection",
+      "kind": "route"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "ai/lab-result-interpret",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager",
+      "canonical": "lab-result-interpret",
+      "kind": "route"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "ai/pharmacy-interaction-check",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager",
+      "canonical": "pharmacy-interaction-check",
+      "kind": "route"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "ai/owner-self-service-faq",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager",
+      "canonical": "owner-self-service-faq",
+      "kind": "route"
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "sourceKey": "ai/multi-clinic-summary",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager",
+      "canonical": "multi-clinic-summary",
+      "kind": "route"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "Client",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "clients",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "Pet",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "pet",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "Breed",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "breed",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "VaccinationRecord",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "vaccination-record",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "BehavioralNote",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "behavioral-note",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "PetPhoto",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "pet-photo",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "GroomingPreference",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "grooming-preference",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "GroomingSession",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "grooming-session",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "Appointment",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "appointment",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "AppointmentService",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "appointment-service",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "Service",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "service",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "BreedService",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "breed-service",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "ServicePackage",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "service-package",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "PackageService",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "package-service",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "SpecialHandlingFee",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "special-handling-fee",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "Transaction",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "transaction",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "TransactionItem",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "transaction-item",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "Product",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "product",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "GiftCard",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "gift-card",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "HealthAlert",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "health-alert",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "Incident",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "incident",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "EmergencyContact",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "emergency-contact",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "AIBreedPrediction",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "aibreed-prediction",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "AIStyleSuggestion",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "aistyle-suggestion",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "AISocialPost",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "aisocial-post",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "BusinessSettings",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "business-settings",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "ReminderHistory",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "reminder-history",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "MedicalRecord",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "medical-record",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "Prescription",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "prescription",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "LabResult",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "lab-result",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "Surgery",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "surgery",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "AIUsageLog",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "aiusage-log",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "TenantAISettings",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "tenant-aisettings",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "PreVisitIntake",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "pre-visit-intake",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "NoShowPrediction",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "no-show-prediction",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "StylePreview",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "style-preview",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "FamilyGroup",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "family-group",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "FamilyMember",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "family-member",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "BundleSuggestion",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "bundle-suggestion",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "VaccineReminderJob",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "vaccine-reminder-job",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "TechnicianProfile",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "technician-profile",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "TechnicianSkill",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "technician-skill",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "TechnicianAvailability",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "technician-availability",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "TechnicianServiceArea",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "technician-service-area",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "ServiceInventoryRequirement",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "service-inventory-requirement",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "GroomingQuote",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "grooming-quote",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "GroomingQuoteLine",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "grooming-quote-line",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "GroomingOrder",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "grooming-order",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "DispatchAssignment",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "dispatch-assignment",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "ChangeOrder",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "change-order",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "ChangeOrderLine",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "change-order-line",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "InventoryReservation",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "inventory-reservation",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "InventoryMovement",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "inventory-movement",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "WorkflowInvoice",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "workflow-invoice",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "WorkflowPayment",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "workflow-payment",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "WorkflowRefund",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "workflow-refund",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "ProviderConnector",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "provider-connector",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "IntegrationOperation",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "integration-operation",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "IntegrationWebhookReceipt",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "integration-webhook-receipt",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "CustomerCommunication",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "customer-communication",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "OfflineCommand",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "offline-command",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "WorkflowAuditEvent",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "workflow-audit-event",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "PetOperation",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "pet-operation",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "PetBalanceEntry",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "pet-balance-entry",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "PetAudit",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "pet-audit",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "PetKnowledge",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "pet-knowledge",
+      "kind": "schema"
+    },
+    {
+      "project": "petGrooming",
+      "sourceKey": "PetAiDraft",
+      "source": "/Volumes/external/projects/petGrooming",
+      "canonical": "pet-ai-draft",
+      "kind": "schema"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "ai-pet-travel-certificate-coordinator",
+      "key": "/registers",
+      "source": "/Volumes/external/projects/ai-pet-travel-certificate-coordinator/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-pet-travel-certificate-coordinator",
+      "key": "/workflow",
+      "source": "/Volumes/external/projects/ai-pet-travel-certificate-coordinator/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-pet-travel-certificate-coordinator",
+      "key": "/delivery",
+      "source": "/Volumes/external/projects/ai-pet-travel-certificate-coordinator/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-pet-travel-certificate-coordinator",
+      "key": "/operations",
+      "source": "/Volumes/external/projects/ai-pet-travel-certificate-coordinator/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAnimalShelterRescueManager",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/AIAnimalShelterRescueManager/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAnimalShelterRescueManager",
+      "key": "/ai",
+      "source": "/Volumes/external/projects/AIAnimalShelterRescueManager/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAnimalShelterRescueManager",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIAnimalShelterRescueManager/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAnimalShelterRescueManager",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIAnimalShelterRescueManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAnimalShelterRescueManager",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIAnimalShelterRescueManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAnimalShelterRescueManager",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIAnimalShelterRescueManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAnimalShelterRescueManager",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAnimalShelterRescueManager",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIAnimalShelterRescueManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAnimalShelterRescueManager",
+      "key": "/animals/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAnimalShelterRescueManager",
+      "key": "ai",
+      "source": "/Volumes/external/projects/AIAnimalShelterRescueManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAnimalShelterRescueManager",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIAnimalShelterRescueManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "key": "/settings",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIPetHealthMonitor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPetHealthMonitor",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager/client/src/components/Sidebar.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIVeterinaryClinicManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVeterinaryClinicManager",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    }
+  ],
+  "migrationWarnings": []
+}

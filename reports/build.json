@@ -1,0 +1,9 @@
+{
+  "app": "pet-services-platform",
+  "features": 192,
+  "sourceApps": 5,
+  "calculatorEngines": 0,
+  "registryHash": "9f904c3ef7563acdbdef7c4cc96a0a4a600c9d3ab430a337cc1e9e0554b2585b",
+  "builtAt": "2026-09-07T22:05:22.864Z",
+  "status": "built"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pet-services-platform",
+  "title": "Pet care & veterinary operations",
+  "buyer": "Groomers, veterinary and animal-care operators",
+  "sourceCount": 5,
+  "sources": [
+    "ai-pet-travel-certificate-coordinator",
+    "AIAnimalShelterRescueManager",
+    "AIPetHealthMonitor",
+    "AIVeterinaryClinicManager",
+    "petGrooming"
+  ],
+  "status": "proposed build; not implemented",
+  "canonicalFeatureStatus": "Requires feature-level mapping and workflow migration; source route counts are not feature-completion counts.",
+  "port": 46001,
+  "productName": "Pet care Workspace",
+  "runtimeVersion": "1.0.0",
+  "sourceRoots": [
+    "/Volumes/external/projects/ai-pet-travel-certificate-coordinator",
+    "/Volumes/external/projects/AIAnimalShelterRescueManager",
+    "/Volumes/external/projects/AIPetHealthMonitor",
+    "/Volumes/external/projects/AIVeterinaryClinicManager",
+    "/Volumes/external/projects/petGrooming"
+  ]
+}
